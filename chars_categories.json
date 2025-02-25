@@ -1,0 +1,189 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6712354127776816558
+  },
+  "m_Name": "CharacteristicCategoriesRoot",
+  "objectsById": {
+    "m_keys": {
+      "Array": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    "m_values": {
+      "Array": [
+        {
+          "rid": 3453790881700906491
+        },
+        {
+          "rid": 3453790881700906492
+        },
+        {
+          "rid": 3453790881700906493
+        },
+        {
+          "rid": 3453790881700906494
+        },
+        {
+          "rid": 3453790881700906495
+        }
+      ]
+    }
+  },
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 3453790881700906491,
+        "type": {
+          "class": "CharacteristicCategories",
+          "ns": "Core.DataCenter.Metadata.Characteristic",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 2,
+          "nameId": 506905,
+          "order": 1,
+          "characteristicIds": {
+            "Array": [
+              1,
+              23,
+              19,
+              11,
+              14,
+              13,
+              10,
+              15,
+              25,
+              18,
+              12
+            ]
+          }
+        }
+      },
+      {
+        "rid": 3453790881700906492,
+        "type": {
+          "class": "CharacteristicCategories",
+          "ns": "Core.DataCenter.Metadata.Characteristic",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 3,
+          "nameId": 506906,
+          "order": 2,
+          "characteristicIds": {
+            "Array": [
+              82,
+              27,
+              83,
+              28,
+              49,
+              79,
+              78,
+              44,
+              26,
+              48,
+              40
+            ]
+          }
+        }
+      },
+      {
+        "rid": 3453790881700906493,
+        "type": {
+          "class": "CharacteristicCategories",
+          "ns": "Core.DataCenter.Metadata.Characteristic",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 4,
+          "nameId": 506910,
+          "order": 3,
+          "characteristicIds": {
+            "Array": [
+              16,
+              86,
+              92,
+              88,
+              89,
+              90,
+              91,
+              50,
+              31,
+              70,
+              69,
+              84,
+              123,
+              122,
+              120,
+              125,
+              147,
+              148
+            ]
+          }
+        }
+      },
+      {
+        "rid": 3453790881700906494,
+        "type": {
+          "class": "CharacteristicCategories",
+          "ns": "Core.DataCenter.Metadata.Characteristic",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 5,
+          "nameId": 506908,
+          "order": 4,
+          "characteristicIds": {
+            "Array": [
+              58,
+              37,
+              54,
+              33,
+              55,
+              34,
+              56,
+              35,
+              57,
+              36,
+              87,
+              85,
+              141,
+              142,
+              121,
+              124
+            ]
+          }
+        }
+      },
+      {
+        "rid": 3453790881700906495,
+        "type": {
+          "class": "CharacteristicCategories",
+          "ns": "Core.DataCenter.Metadata.Characteristic",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 6,
+          "nameId": 846625,
+          "order": 5,
+          "characteristicIds": {
+            "Array": [
+              75
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

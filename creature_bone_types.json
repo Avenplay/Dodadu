@@ -1,0 +1,203 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -580974287121248340
+  },
+  "m_Name": "CreatureBonesTypesRoot",
+  "objectsById": {
+    "m_keys": {
+      "Array": [
+        1,
+        2,
+        3,
+        7,
+        4,
+        5,
+        0,
+        6,
+        8,
+        9,
+        10
+      ]
+    },
+    "m_values": {
+      "Array": [
+        {
+          "rid": 3453790881700911313
+        },
+        {
+          "rid": 3453790881700911314
+        },
+        {
+          "rid": 3453790881700911315
+        },
+        {
+          "rid": 3453790881700911316
+        },
+        {
+          "rid": 3453790881700911317
+        },
+        {
+          "rid": 3453790881700911318
+        },
+        {
+          "rid": 3453790881700911319
+        },
+        {
+          "rid": 3453790881700911320
+        },
+        {
+          "rid": 3453790881700911321
+        },
+        {
+          "rid": 3453790881700911322
+        },
+        {
+          "rid": 3453790881700911323
+        }
+      ]
+    }
+  },
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 3453790881700911313,
+        "type": {
+          "class": "CreatureBonesTypes",
+          "ns": "Core.DataCenter.Metadata.Appearance",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 1,
+          "creatureBoneId": 1747
+        }
+      },
+      {
+        "rid": 3453790881700911314,
+        "type": {
+          "class": "CreatureBonesTypes",
+          "ns": "Core.DataCenter.Metadata.Appearance",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 2,
+          "creatureBoneId": 1765
+        }
+      },
+      {
+        "rid": 3453790881700911315,
+        "type": {
+          "class": "CreatureBonesTypes",
+          "ns": "Core.DataCenter.Metadata.Appearance",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 3,
+          "creatureBoneId": 1748
+        }
+      },
+      {
+        "rid": 3453790881700911316,
+        "type": {
+          "class": "CreatureBonesTypes",
+          "ns": "Core.DataCenter.Metadata.Appearance",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 7,
+          "creatureBoneId": 2247
+        }
+      },
+      {
+        "rid": 3453790881700911317,
+        "type": {
+          "class": "CreatureBonesTypes",
+          "ns": "Core.DataCenter.Metadata.Appearance",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 4,
+          "creatureBoneId": 1765
+        }
+      },
+      {
+        "rid": 3453790881700911318,
+        "type": {
+          "class": "CreatureBonesTypes",
+          "ns": "Core.DataCenter.Metadata.Appearance",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 5,
+          "creatureBoneId": 1749
+        }
+      },
+      {
+        "rid": 3453790881700911319,
+        "type": {
+          "class": "CreatureBonesTypes",
+          "ns": "Core.DataCenter.Metadata.Appearance",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 0,
+          "creatureBoneId": 666
+        }
+      },
+      {
+        "rid": 3453790881700911320,
+        "type": {
+          "class": "CreatureBonesTypes",
+          "ns": "Core.DataCenter.Metadata.Appearance",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 6,
+          "creatureBoneId": 1749
+        }
+      },
+      {
+        "rid": 3453790881700911321,
+        "type": {
+          "class": "CreatureBonesTypes",
+          "ns": "Core.DataCenter.Metadata.Appearance",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 8,
+          "creatureBoneId": 666
+        }
+      },
+      {
+        "rid": 3453790881700911322,
+        "type": {
+          "class": "CreatureBonesTypes",
+          "ns": "Core.DataCenter.Metadata.Appearance",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 9,
+          "creatureBoneId": 1813
+        }
+      },
+      {
+        "rid": 3453790881700911323,
+        "type": {
+          "class": "CreatureBonesTypes",
+          "ns": "Core.DataCenter.Metadata.Appearance",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 10,
+          "creatureBoneId": 1965
+        }
+      }
+    ]
+  }
+}

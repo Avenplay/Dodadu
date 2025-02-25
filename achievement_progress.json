@@ -1,0 +1,231 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 7051301645842635821
+  },
+  "m_Name": "AchievementProgressRoot",
+  "objectsById": {
+    "m_keys": {
+      "Array": [
+        5,
+        14,
+        16,
+        24,
+        25,
+        28,
+        29,
+        59,
+        60,
+        61,
+        62,
+        63
+      ]
+    },
+    "m_values": {
+      "Array": [
+        {
+          "rid": 3453790881700129455
+        },
+        {
+          "rid": 3453790881700129456
+        },
+        {
+          "rid": 3453790881700129457
+        },
+        {
+          "rid": 3453790881700129458
+        },
+        {
+          "rid": 3453790881700129459
+        },
+        {
+          "rid": 3453790881700129460
+        },
+        {
+          "rid": 3453790881700129461
+        },
+        {
+          "rid": 3453790881700129462
+        },
+        {
+          "rid": 3453790881700129463
+        },
+        {
+          "rid": 3453790881700129464
+        },
+        {
+          "rid": 3453790881700129465
+        },
+        {
+          "rid": 3453790881700129466
+        }
+      ]
+    }
+  },
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 3453790881700129455,
+        "type": {
+          "class": "AchievementProgress",
+          "ns": "Core.DataCenter.Metadata.OptionalFeatures",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 2,
+          "name": "Temporis 4",
+          "seasonId": 5
+        }
+      },
+      {
+        "rid": 3453790881700129456,
+        "type": {
+          "class": "AchievementProgress",
+          "ns": "Core.DataCenter.Metadata.OptionalFeatures",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 3,
+          "name": "Temporis 5",
+          "seasonId": 14
+        }
+      },
+      {
+        "rid": 3453790881700129457,
+        "type": {
+          "class": "AchievementProgress",
+          "ns": "Core.DataCenter.Metadata.OptionalFeatures",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 4,
+          "name": "Temporis 6",
+          "seasonId": 16
+        }
+      },
+      {
+        "rid": 3453790881700129458,
+        "type": {
+          "class": "AchievementProgress",
+          "ns": "Core.DataCenter.Metadata.OptionalFeatures",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 5,
+          "name": "Temporis 8",
+          "seasonId": 24
+        }
+      },
+      {
+        "rid": 3453790881700129459,
+        "type": {
+          "class": "AchievementProgress",
+          "ns": "Core.DataCenter.Metadata.OptionalFeatures",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 6,
+          "name": "Expédition 1",
+          "seasonId": 25
+        }
+      },
+      {
+        "rid": 3453790881700129460,
+        "type": {
+          "class": "AchievementProgress",
+          "ns": "Core.DataCenter.Metadata.OptionalFeatures",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 7,
+          "name": "Saison kolizéum 1",
+          "seasonId": 28
+        }
+      },
+      {
+        "rid": 3453790881700129461,
+        "type": {
+          "class": "AchievementProgress",
+          "ns": "Core.DataCenter.Metadata.OptionalFeatures",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 8,
+          "name": "Saison kolizéum Beta",
+          "seasonId": 29
+        }
+      },
+      {
+        "rid": 3453790881700129462,
+        "type": {
+          "class": "AchievementProgress",
+          "ns": "Core.DataCenter.Metadata.OptionalFeatures",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 11,
+          "name": "Expédition 2",
+          "seasonId": 59
+        }
+      },
+      {
+        "rid": 3453790881700129463,
+        "type": {
+          "class": "AchievementProgress",
+          "ns": "Core.DataCenter.Metadata.OptionalFeatures",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 12,
+          "name": "Saison kolizéum 2",
+          "seasonId": 60
+        }
+      },
+      {
+        "rid": 3453790881700129464,
+        "type": {
+          "class": "AchievementProgress",
+          "ns": "Core.DataCenter.Metadata.OptionalFeatures",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 13,
+          "name": "Saison kolizéum 3",
+          "seasonId": 61
+        }
+      },
+      {
+        "rid": 3453790881700129465,
+        "type": {
+          "class": "AchievementProgress",
+          "ns": "Core.DataCenter.Metadata.OptionalFeatures",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 14,
+          "name": "Saison kolizéum 4",
+          "seasonId": 62
+        }
+      },
+      {
+        "rid": 3453790881700129466,
+        "type": {
+          "class": "AchievementProgress",
+          "ns": "Core.DataCenter.Metadata.OptionalFeatures",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "id": 15,
+          "name": "Saison kolizéum 5",
+          "seasonId": 63
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 6687576803075106671
+  },
+  "m_Name": "CreatureBonesOverridesRoot",
+  "objectsById": {
+    "m_keys": {
+      "Array": [
+        842,
+        3164,
+        3163,
+        706,
+        453,
+        1504,
+        1509,
+        113
+      ]
+    },
+    "m_values": {
+      "Array": [
+        {
+          "rid": 3453790881700911305
+        },
+        {
+          "rid": 3453790881700911306
+        },
+        {
+          "rid": 3453790881700911307
+        },
+        {
+          "rid": 3453790881700911308
+        },
+        {
+          "rid": 3453790881700911309
+        },
+        {
+          "rid": 3453790881700911310
+        },
+        {
+          "rid": 3453790881700911311
+        },
+        {
+          "rid": 3453790881700911312
+        }
+      ]
+    }
+  },
+  "references": {
+    "version": 2,
+    "RefIds": [
+      {
+        "rid": 3453790881700911305,
+        "type": {
+          "class": "CreatureBonesOverrides",
+          "ns": "Core.DataCenter.Metadata.Appearance",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "boneId": 842,
+          "creatureBoneId": 1811
+        }
+      },
+      {
+        "rid": 3453790881700911306,
+        "type": {
+          "class": "CreatureBonesOverrides",
+          "ns": "Core.DataCenter.Metadata.Appearance",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "boneId": 3164,
+          "creatureBoneId": 1812
+        }
+      },
+      {
+        "rid": 3453790881700911307,
+        "type": {
+          "class": "CreatureBonesOverrides",
+          "ns": "Core.DataCenter.Metadata.Appearance",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "boneId": 3163,
+          "creatureBoneId": 1812
+        }
+      },
+      {
+        "rid": 3453790881700911308,
+        "type": {
+          "class": "CreatureBonesOverrides",
+          "ns": "Core.DataCenter.Metadata.Appearance",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "boneId": 706,
+          "creatureBoneId": 1749
+        }
+      },
+      {
+        "rid": 3453790881700911309,
+        "type": {
+          "class": "CreatureBonesOverrides",
+          "ns": "Core.DataCenter.Metadata.Appearance",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "boneId": 453,
+          "creatureBoneId": 1749
+        }
+      },
+      {
+        "rid": 3453790881700911310,
+        "type": {
+          "class": "CreatureBonesOverrides",
+          "ns": "Core.DataCenter.Metadata.Appearance",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "boneId": 1504,
+          "creatureBoneId": 1749
+        }
+      },
+      {
+        "rid": 3453790881700911311,
+        "type": {
+          "class": "CreatureBonesOverrides",
+          "ns": "Core.DataCenter.Metadata.Appearance",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "boneId": 1509,
+          "creatureBoneId": 1749
+        }
+      },
+      {
+        "rid": 3453790881700911312,
+        "type": {
+          "class": "CreatureBonesOverrides",
+          "ns": "Core.DataCenter.Metadata.Appearance",
+          "asm": "Ankama.Dofus.Core.DataCenter"
+        },
+        "data": {
+          "boneId": 113,
+          "creatureBoneId": 1749
+        }
+      }
+    ]
+  }
+}
